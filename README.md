@@ -1,3 +1,5 @@
+A LINK TO MY ARTICLE ON THIS PROJECT: 
+[HERE](https://dev.to/tophe/user-management-automation-with-bash-script-9n4)
 ---
 #### Script Overview
 The script performs the following tasks:
